@@ -33,9 +33,26 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![screen1](screen1.png) 
+![screen2](screen2.png)
+![screen3](screen3.png)
+![screen4](screen4.png)
+![screen5](screen5.png)
+![screen6](screen6.png)
+![screen7](screen7.png)
+![screen8](screen8.png)
+![screen9](screen9.png)
+![screen10](screen10.png)
+![screen11](screen11.png)
+![screen12](screen12.png)
+![screen13](screen13.png)
+![screen14](screen14.png)
+![screen15](screen15.png)
+![screen16](screen16.png)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+
 
 ## Notes
 
