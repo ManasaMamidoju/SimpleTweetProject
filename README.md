@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://youtu.be/IRxQVn9ojjY' width='' alt='Video Walkthrough' />
+<video src='https://youtu.be/IRxQVn9ojjY' width='' alt='Video Walkthrough' />
 
 ## Notes
 
